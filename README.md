@@ -21,7 +21,7 @@ Ruby,Rails,Postgresql のバージョンは以下とする：
 以下のコマンドを実行し、プロジェクトのテンプレートをクローンします：
 
 ```bash
-git 任意のgithub上にあるリポジトリURL
+git clone 任意のgithub上にあるリポジトリURL
 ```
 
 ---
